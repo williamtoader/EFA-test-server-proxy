@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/williamtoader/EFA-test-server-proxy#readme",
   "dependencies": {
+    "express": "^4.18.1",
     "http-proxy": "^1.18.1",
     "http-proxy-middleware": "^2.0.6"
   }
